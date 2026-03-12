@@ -239,7 +239,7 @@
 
 ## Coruse 7: XPSC
 
-### [All Problems List]
+### [All Problems List] (https://github.com/mehedi-hasan-shanto-dev/programming-journey-archive/blob/main/xpsc/README.md)
 
 ## Course 8: SWE Projects
 
